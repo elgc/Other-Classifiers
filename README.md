@@ -19,3 +19,4 @@ References:
 1. Supprt Vector Machine (SVM) with linear kernel
 2. SVM with radial kernel
 3. Logistic regression
+4. K-Nearest Neighbors (KNN)
