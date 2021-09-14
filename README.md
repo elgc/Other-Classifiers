@@ -1,4 +1,4 @@
-PROBLEM DESCRIPTION:
+## Problem desscription
 
 The file “dataminesrocks.csv” contains 208 patterns obtained by 1)bouncing sonar signals off a metal cylinder at various angles and under various conditions, and 2) from bouncing sonar signals off rocks under similar conditions. The transmitted sonar signal is a frequency-modulated chirp, rising in frequency. The data set contains signals obtained from a variety of different aspect angles, spanning 90 degrees for the cylinder and 180 degrees for the rock.
 
@@ -14,3 +14,8 @@ References:
 
 [](https://datahub.io/machine-learning/sonar#readme)
 [](https://www.openml.org/d/40)
+
+# Classifiers used on the data:
+1. Supprt Vector Machine (SVM) with linear kernel
+2. SVM with radial kernel
+3. Logistic regression
