@@ -16,7 +16,7 @@ References:
 [](https://www.openml.org/d/40)
 
 ### Classifiers used on the data:
-1. Supprt Vector Machine (SVM) with linear kernel
+1. Support Vector Machine (SVM) with linear kernel
 2. SVM with radial kernel
 3. Logistic regression
 4. K-Nearest Neighbors (KNN)
